@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["6288295102518@s.whatsapp.net"],
+  "ownerName": ["Paa"],
+  "botName": "D1K4",
+  "youtubeOwner": "https://youtube.com/channel/UCMiDpBDq69S476XoZ099NSQ",
+  "donasiDana": "085211195017",
+  "donasiGopay": "085211195017",
+  "sessionName": "session",
+  "pathimg": "./media/botdika.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
